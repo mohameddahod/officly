@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+@font-face{
+    font-family: KumbhSans-Bold;
+    src:url(../font/KumbhSans-Bold.ttf);
+}
+@font-face {
+    font-family: KumbhSans-Regular;
+    src: url(../font/KumbhSans-Regular.ttf);
+}
+.logo{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.main-nav{
+   margin-left: 50px;
+}
+.pragraph{
+    margin-left: 50px;
+    display: flex;
+}
+.taxt-1{
+    font-family: KumbhSans-Bold;
+    font-size: 56px;
+}
+.text-2{
+    font-family: KumbhSans-Regular;
+    font-size: 18px;
+    padding-bottom: 40px;
+}
+.botton{
+    font-family: KumbhSans-Bold;
+    font-size: 16px;
+    background-color: #5175FF;
+    padding: 31px 96px;
+    border-radius: 47px;
+    padding-top: 30px;
+}
+.botton:hover{
+    background-color: blue;
+}
+.infotmation{
+    width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.thefrst{
+    font-family: KumbhSans-Bold;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.nice{
+    font-family: KumbhSans-Regular;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.document{
+    font-family: KumbhSans-Regular;
+    font-size: 16px;
+    padding: 10px;
+}
+.free{
+    font-family: KumbhSans-Regular;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.btn{
+    font-family: KumbhSans-Bold;
+    font-size: 16px;
+    color: #9f9ac8;
+    padding: 19px 29px;
+    border-radius: 46px;
+}
+.btn:hover{
+    background-color: #5175FF;
+}
+.infotmation{
+    display: flex;
+    justify-content: space-around;
+}
+/*.plan-1,.plan-2,.plan-3{
+    color: #000;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    background-color: white;
+    box-shadow: 1px 1px 7px rgb(229, 226, 226);
+    margin-left: 20px;
+}*/
+.plan-1:hover{
+    background-color: #5175FF;
+}
+.plan-1{
+    border-radius: 19px;
+    margin: 90px 81px;
+}
+.plan-2:hover{
+    background-color: #5175FF;
+}
+.plan-2{
+    border-radius: 19px;
+    margin: 90px 81px;
+}
+.plan-3{
+    border-radius: 19px;
+    margin: 90px 81px;
+}
+.plan-3:hover{
+    background-color: #5175FF;
+}
+.name{
+    margin-left: 50px;
+}
+.G1{
+color: #5175FF;
+}
+.namber{
+    display: flex;
+    justify-content: space-evenly;
+}
+.data-1{
+    background-color: #74767a;
+    border-radius: 13px;
+    padding: 15px 30px;
+}
+.data-1.thefirst{
+    color: aliceblue;
+    font-family: KumbhSans-Bold;
+    font-size:56px;
+}
+.data-1.thescend{
+    font-family: KumbhSans-Bold;
+    font-size:16px;
+}
+.data-1:hover{
+    background-color: #3e4147;
+}
+.data-2{
+    background-color: #74767a;
+    border-radius: 13px;
+    padding: 15px 30px;
+}
+.data-2.thefirst{
+    color: aliceblue;
+    font-family: KumbhSans-Bold;
+    font-size:56px;
+}
+.data-2.thescend{
+    font-family: KumbhSans-Bold;
+    font-size:16px;
+}
+.data-2:hover{
+    background-color: #3e4147;
+}
+.data-3{
+    background-color: #74767a;
+    border-radius: 13px;
+    padding: 15px 30px;
+}
+.data-3.thefirst{
+    color: aliceblue;
+    font-family: KumbhSans-Bold;
+    font-size:56px;
+}
+.data-3.thescend{
+    font-family: KumbhSans-Bold;
+    font-size:16px;
+}
+
+.data-3:hover{
+    background-color: #3e4147;
+}
+.data-4.thefirst{
+    color: aliceblue;
+    font-family: KumbhSans-Bold;
+    font-size:56px;
+}
+.data-4.thescend{
+    font-family: KumbhSans-Bold;
+    font-size:16px;
+}
+.data-4{
+    background-color: #74767a;
+    border-radius: 13px;
+    padding: 15px 30px
+}
+.data-4:hover{
+    background-color: #3e4147;
+}
+.bttton-uder{
+    font-family: KumbhSans-Bold;
+    font-size: 16px;
+    background-color: #5175FF;
+    padding: 31px 96px;
+    border-radius: 47px;
+}
+.bttton-uder:hover{
+    background-color:#5175FF;;
+}
+
+
+    
+
